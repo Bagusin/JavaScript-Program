@@ -30,6 +30,7 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+- Question 29 : What are the differences between ES6 class and ES5 function constructors?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
